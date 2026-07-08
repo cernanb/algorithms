@@ -1,5 +1,3 @@
-const algorithms = [];
-
 const pbjAlgo = [
   "Get bread",
   "Get peanut butter",
